@@ -1,7 +1,7 @@
 
-ARTSODA Web Project
+         ARTSODA Web Project
          
-프로젝트 기간 : 2023/08/01 ~ 08/30
+         프로젝트 기간 : 2023/08/01 ~ 08/30
 
          4조 
          발표&팀장: 송민정(Backend & DB Design(게시판)
