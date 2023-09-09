@@ -11,4 +11,4 @@
 
                   김상아(Frontend & Data Processing(웹 크롤링)), 
 
-                  박성은(frontend & UI Design(웹 페이지 디자인)) 
+                  박성은(frontend & UI Design(웹 페이지)) 
