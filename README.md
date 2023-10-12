@@ -5,9 +5,13 @@
 
 ## 개발 환경
 
-## 개발 기간
-- 1차 개발: 2023.8.1~2023.8.30
-- 2차 추가 개발: 2023.10.10~2023.10.25
+## 개발 환경
+### 프론트
+### 백엔드
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Spring&logoColor=#6DB33F"/>
+
+### 데이터
+### 기타
 ## Usage
 
 ```python
