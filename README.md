@@ -4,7 +4,8 @@
 기존 시각예술인들이 제일 많이 사용하는 사이트인 “네오룩" 에서 아이디어를 얻어 ‘개선과 가독성'을 집중주제로 소통을 촉진하는 미술 플랫폼.
 
 ## 개발 환경
-
+### 프론트
+- <img src="https://img.shields.io/badge/Visual Studio-#007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/Adobe Photoshop-#31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 ## 개발 환경
 ### 프론트
 ### 백엔드
