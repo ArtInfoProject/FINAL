@@ -1,16 +1,13 @@
-# ArtSoda🎨
-대충 로고 여기
-## 프로젝트 소개
-기존 시각예술인들이 제일 많이 사용하는 사이트인 “네오룩" 에서 아이디어를 얻어 ‘개선과 가독성'을 집중주제로 소통을 촉진하는 미술 플랫폼..?
 
+# ArtSoda🎨
+
+## 프로젝트 소개
+기존 시각예술인들이 제일 많이 사용하는 사이트인 “네오룩" 에서 아이디어를 얻어 ‘개선과 가독성'을 집중주제로 소통을 촉진하는 미술 웹 프로젝트 입니다.
 ## ⚙개발 환경 & 사용 언어
 ### 프론트
-<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
 - Visual Studio, Photoshop, Figma
 - HTML, JS, CSS, JSP
 ### 백엔드
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 - sts3, Spring
 - Java, Tiles, mybatis
 ### 데이터
@@ -32,27 +29,6 @@
 - 메인, 회원관련, 로그인 페이지 구현
 ### 김상아
 - 데이터 크롤링, 추천 시스템 구현
-- 게시판 페이지 구현
-```python
-import foobar
+- 게시판, 글작성 페이지 구현
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+...TBC
