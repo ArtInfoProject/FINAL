@@ -1,6 +1,6 @@
 
 # ArtSoda🎨
-
+![logo_color](https://github.com/ArtInfoProject/FINAL/assets/68104804/29c1c240-2f3a-421f-af8f-77761c0ad392)
 ## 프로젝트 소개
 기존 시각예술인들이 제일 많이 사용하는 사이트인 “네오룩" 에서 아이디어를 얻어 ‘개선과 가독성'을 집중주제로 소통을 촉진하는 미술 웹 프로젝트 입니다.
 ## ⚙개발 환경 & 사용 언어
